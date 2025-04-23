@@ -1,4 +1,4 @@
-package org.example.exercicio4;
+package org.example.exercicio4.entity;
 
 public class PassaroVoador extends Passaro {
 

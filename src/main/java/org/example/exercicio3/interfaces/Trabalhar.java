@@ -1,4 +1,4 @@
-package org.example.exercicio3;
+package org.example.exercicio3.interfaces;
 
 public interface Trabalhar {
 

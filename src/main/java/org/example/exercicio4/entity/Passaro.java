@@ -1,4 +1,4 @@
-package org.example.exercicio4;
+package org.example.exercicio4.entity;
 
 //Modifique o código seguindo o Princípio da Substituição de Liskov.
 

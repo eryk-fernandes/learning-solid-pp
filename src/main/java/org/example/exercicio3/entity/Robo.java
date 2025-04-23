@@ -1,5 +1,7 @@
-package org.example.exercicio3;
+package org.example.exercicio3.entity;
 
+
+import org.example.exercicio3.interfaces.Trabalhar;
 
 public class Robo implements Trabalhar {
 
