@@ -1,6 +1,6 @@
 package org.example.exercicio2.interfaces;
 
-public interface Desconto {
+public interface Descontavel {
 
     double desconto();
 }
