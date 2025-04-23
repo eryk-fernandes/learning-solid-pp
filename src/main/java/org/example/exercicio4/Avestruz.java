@@ -1,8 +1,8 @@
 package org.example.exercicio4;
 
-public class Avestruz extends Passaro {
+public class Avestruz extends PassaroVoador {
 
     public void voar(){
-        throw new UnsupportedOperationException("Avestruzes não podem voar");
+        // lógica de voar
     }
 }
