@@ -4,4 +4,5 @@ package org.example.exercicio4;
 
 public class Passaro {
 
+    public void comer() {}
 }

@@ -1,8 +1,5 @@
 package org.example.exercicio4;
 
-public class Avestruz extends PassaroVoador {
+public class Avestruz extends Passaro {
 
-    public void voar(){
-        // lógica de voar
-    }
 }
